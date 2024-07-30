@@ -1,2 +1,2 @@
 # domain_10
-Hexagon with a rhombus with intersected diagonals inside | Development
+Hexagon with a quadrangle inside | Community Building & Integration
